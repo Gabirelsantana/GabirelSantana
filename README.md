@@ -6,52 +6,61 @@ My career has focused on the intersection of customers, business processes, and 
 
 I’m currently pursuing a degree in IT Management and developing my technical skills through hands-on projects and professional training.
 
-🛠️ Technologies, Platforms & Skills
-Enterprise Platforms & Tools
-Jira
-ServiceNow
-Salesforce
-CRM & Ticketing Platforms
-CMS Platforms
-Enterprise & Proprietary Systems
-Data, Integrations & Enterprise Technologies
-XML, EDI & Flat Files
-SFTP / FTP
-SAP
-Oracle
-J.D. Edwards
-Enterprise system integrations
-Technical & Operational Skills
-Technical Troubleshooting
-Incident Management
-Service Request Management
-Ticket Management
-SLA Management
-Issue Triage
-Escalation Management
-ITSM
-Cross-Functional Collaboration
-Process Improvement
-Currently Developing
-HTML & CSS
-Python
-Back-End Development
-Power BI
-AWS & Cloud Technologies
-Cybersecurity
-IT Service Management
-🎯 Areas of Interest
+## 🛠️ Technologies, Platforms & Skills
 
-I’m interested in technology that connects people, processes, and business operations, particularly:
+### Enterprise Platforms & Tools
 
-IT Operations
-Application & Technical Support
-Business Systems
-Service Management
-Data & Business Operations
-Process Improvement
-Cloud Technologies
-Technology Governance
+* Jira
+* ServiceNow
+* Salesforce
+* CRM & Ticketing Platforms
+* CMS Platforms
+* Enterprise & Proprietary Systems
+
+### Data, Integrations & Enterprise Technologies
+
+* XML, EDI & Flat Files
+* SFTP / FTP
+* SAP
+* Oracle
+* J.D. Edwards
+* Enterprise System Integrations
+
+### Technical & Operational Skills
+
+* Technical Troubleshooting
+* Incident Management
+* Service Request Management
+* Ticket Management
+* SLA Management
+* Issue Triage
+* Escalation Management
+* ITSM
+* Cross-Functional Collaboration
+* Process Improvement
+
+### Currently Developing
+
+* HTML & CSS
+* Python
+* Back-End Development
+* Power BI
+* AWS & Cloud Technologies
+* Cybersecurity
+* IT Service Management
+
+## 🎯 Areas of Interest
+
+I’m interested in technology that connects **people, processes, and business operations**, particularly:
+
+* IT Operations
+* Application & Technical Support
+* Business Systems
+* Service Management
+* Data & Business Operations
+* Process Improvement
+* Cloud Technologies
+* Technology Governance
 
 My goal is to use technology practically to solve real-world problems, improve processes, and make operations more efficient, reliable, and scalable.
 
